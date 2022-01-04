@@ -1,0 +1,1 @@
+Novo arquivo criado pós-commit.
